@@ -4,3 +4,8 @@
 body{
     background-color: rgb(212, 238, 238);
 }
+.btn btn-secondary btn-lg{
+    margin: 10px 0;
+    padding: 10px;
+    font-size: 15px;
+}
