@@ -2,10 +2,11 @@
     font-family: lobster;
 }
 .jumbotron{
-    background-color: chocolate ;
+    background-color: darkgoldenrod;
 }
 body{
-    background-color: rgb(155, 224, 224);
+    background-image: url("image/lessoo.png");
+   
 }
 .btn btn-secondary btn-lg{
     margin: 10px 0;
@@ -14,4 +15,9 @@ body{
 }
 .custom-control custom-radio{
     padding: 5px;
+}
+img{
+    width: auto;
+    height: 150px;
+    float: right;
 }

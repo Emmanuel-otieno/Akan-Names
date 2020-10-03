@@ -18,5 +18,5 @@ sakoemmanuel4@gmail.com
 * None
 
 ## License
-MIT ("http://opensource.org/licenses/MIT")
+MIT("http://opensource.org/licenses/MIT")
 copyright (c) 2020
