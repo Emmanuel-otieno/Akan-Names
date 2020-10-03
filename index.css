@@ -9,6 +9,6 @@ body{
     padding: 10px;
     font-size: 15px;
 }
-#git custom-control custom-radio{
+.custom-control custom-radio{
     padding: 5px;
 }
