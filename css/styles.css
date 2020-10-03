@@ -1,6 +1,9 @@
 .display-4{
     font-family: lobster;
 }
+.jumbotron{
+    background-color: chocolate ;
+}
 body{
     background-color: rgb(155, 224, 224);
 }
