@@ -7,9 +7,9 @@ Emmanuel Otieno
 website application that that gives a traditional name according to the day someone was born and gender
 
 ## Technology used
-*Html - for writting  content to website
-*Css - for styling website
-*Javascript - putting function into work
+* Html - for writting  content to website
+* Css - for styling website
+* Javascript - putting function into work
 
 ## support and contact details
 sakoemmanuel4@gmail.com
@@ -18,5 +18,5 @@ sakoemmanuel4@gmail.com
 * None
 
 ## License
-MIT"http://opensource.org/licenses/MIT"
+MIT ("http://opensource.org/licenses/MIT")
 copyright (c) 2020
