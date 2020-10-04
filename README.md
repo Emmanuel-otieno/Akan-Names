@@ -17,6 +17,10 @@ sakoemmanuel4@gmail.com
 ##  Known Bugs 
 * None
 
+## link to live site on GitHub Pages
+[GitHub Pages]("https://github.com/Emmanuel-otieno/Akan-Names").
+
+
 ## License
-MIT("http://opensource.org/licenses/MIT")
+[MIT]("http://opensource.org/licenses/MIT")
 copyright (c) 2020
