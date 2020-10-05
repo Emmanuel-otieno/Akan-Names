@@ -15,7 +15,7 @@ website application that that gives a traditional name according to the day some
 sakoemmanuel4@gmail.com
 
 ##  Known Bugs 
-* None
+* background image and color
 
 ## link to live site on GitHub Pages
 [GitHub Pages]("https://github.com/Emmanuel-otieno/Akan-Names").
